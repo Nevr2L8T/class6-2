@@ -4,6 +4,9 @@ public class testCAses {
             System.out.println("Hello");
 
         }
-        .
+        // the issue is fixed
+        /**
+         * Nothing to do
+         */
     }
 }
